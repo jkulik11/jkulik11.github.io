@@ -21,14 +21,14 @@ repository               : "jkulik11/jkulik11.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "headshot.png"
   name             : "Jackson Kulik"
   pronouns         : "he/him"
   bio              : "Assistant Professor"
   location         : "Utah State University"
   employer         : "Mechanical and Aerospace Engineering Department"
   uri              : # URL
-  email            : "jpk258@cornell.edu" 
+  email            : "jackson.kulik@usu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
