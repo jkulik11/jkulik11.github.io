@@ -13,7 +13,7 @@ My primary interest at the moment is in addressing guidance, navigation, and con
 
 I completed my PhD at Cornell University in the Center for Applied Mathematics in Dmitry Savransky's [SIOSlab](https://sioslab.mae.cornell.edu/). I received a B.S. in Mathematics at Texas Tech University.
 
-I am actively recruiting students. Please reach out via email with a resume/CV if you are interested in working together.
+I am actively recruiting students. Please reach out via email with a resume/CV if you are interested in working together. You can find my public calendar [here](https://outlook.office365.com/owa/calendar/7baca282cf5b46269163b1794052d82b@usu.edu/a250cbe6589f430a8b38c1bfae8a59ae3463876280939383024/calendar.html) if you would like to propose a meeting time.
 
 <img src="../images/dyce_logo_clear_cropped.png" width="200" />
 
