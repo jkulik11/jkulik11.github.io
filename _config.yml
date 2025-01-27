@@ -143,6 +143,7 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _portfolio
   - files
 exclude:
   - "*.sublime-project"
